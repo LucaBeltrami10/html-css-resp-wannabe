@@ -138,6 +138,11 @@ img {
   -forse anche 
  */
 
+ @media screen and (max-width: 768px){
+    .container {
+        width: 765px;
+    }
+ }
 
 
  /* WIDTH MAX 480PX */

@@ -152,6 +152,8 @@ img {
  */
 
  @media screen and (max-width: 480px){
+    
+
     .container {
         width: 378px;
     }
@@ -171,7 +173,7 @@ img {
     }
 
     .steps {
-        margin: 1.5rem 0 3rem 0;
+        margin: 1.5rem 0 0 0;
         padding-bottom: 0.5rem;
     }
 
@@ -182,7 +184,8 @@ img {
     }
 
     .why-us {
-        padding-top: 0;
+        padding-top: 3rem;
+        background-color: #222222;
     }
     
     .why-us .col-left {

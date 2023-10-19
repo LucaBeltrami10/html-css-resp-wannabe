@@ -128,15 +128,7 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-
- /* WIDTH MAX 768PX */
- /*
-  -larghezza container da 50% margin 0 auto a 100%
-  -maggiore dimensione immagini 
-  -immagine why us section nettamente più grande
-  -font titoli più grandi
-  -forse anche 
- */
+/* Responsive dotto i 768px */
 
  @media screen and (max-width: 768px){
     .container {
@@ -144,12 +136,7 @@ img {
     }
  }
 
-
- /* WIDTH MAX 480PX */
- /* 
- -Tutto in una sola colonna
- -section why us background colore da cambiare
- */
+/* Responsive dotto i 480px */
 
  @media screen and (max-width: 480px){
     

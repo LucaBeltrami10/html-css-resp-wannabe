@@ -160,12 +160,25 @@ img {
         flex-direction: column;
     }
 
+    h2{
+        margin-bottom: 0;
+    }
+
     .lessons .col {
         width: 100%;
+        margin-top: 2.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .steps {
+        margin: 1.5rem 0 3rem 0;
+        padding-bottom: 0;
     }
 
     .steps .col {
         width: 100%;
+        margin: 1.5rem 0 2.5rem 0;
+           
     }
 
     .why-us .col-left {

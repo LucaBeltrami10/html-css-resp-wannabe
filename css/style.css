@@ -155,4 +155,8 @@ img {
     .container {
         width: 380px;
     }
+
+    .row{
+        flex-direction: column;
+    }
  }
